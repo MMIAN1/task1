@@ -10,7 +10,7 @@ Zaprojektowany model przedstawia fragment aplikacji bankowej, wymodelowany zgodn
 ## Model Graficzny
 Poniższy schemat przedstawia relacje między agregatami, encjami oraz obiektami wartości w zdefiniowanych kontekstach.
 
-![DDD Diagram](DDD_Diagram.drawio.png)
+![DDD Diagram](DDD-diagram.png)
 
 
 ## Zdefiniowane założenia, atrybuty i formaty danych
